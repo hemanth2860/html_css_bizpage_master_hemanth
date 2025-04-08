@@ -1,3 +1,4 @@
+#live preview: https://hemanth2860.github.io/html_css_bizpage_master_hemanth/
 Thanks for downloading this theme!
 
 Theme Name: BizPage
